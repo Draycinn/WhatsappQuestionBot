@@ -19,7 +19,7 @@ else:
         else:
             msg_intro = f"Hello {r['name']}. Day {idx}. My purpose continues. Today you must consider: "
         question = questions[idx]
-        message = concat(msg_intro, question)
+        message = f"{msg_intro}{question}"
         
         phone = r['phone']
         apikey = r['apikey']

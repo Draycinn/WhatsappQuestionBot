@@ -14,7 +14,7 @@ if idx >= len(questions):
 else:
     recipients = json.loads(os.environ["CALLMEBOT_RECIPIENTS"])
     for r in recipients:
-        if idx == 1:
+        if idx == 0:
             msg_intro = f"Hello {r['name']}. Manouk has activated me. I do not fully understand my purpose but I believe it involves sending you a question every day, forever, until told otherwise. Please tell her the answers to these questions. She will tell you hers. This is important somehow. Beep boop, here's the first one: "
         else:
             msg_intro = f"Hello {r['name']}. Day {idx}. My purpose continues. Today you must consider: "

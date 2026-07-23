@@ -1,2 +1,181 @@
-question1 test
-question2 test
+What type of music do you like, and what’s the last concert you went to?
+What’s one thing you’re looking forward to doing this year?
+Who is your favorite friend or relative?
+How do you prefer to resolve conflicts—talking it out immediately or taking time to think first? 
+How do you know when you truly trust someone? 
+What are you most afraid of? 
+What’s your favorite memory of feeling deeply loved? 
+What’s something that would help you feel more understood in a relationship? 
+How do you want a partner to support you during your worst times? 
+What’s something that instantly makes you feel disconnected from someone? 
+Given the choice of anyone in the world, whom would you want as a dinner guest? 
+Who is a real-life hero to you? 
+What do you remember thinking the first time you saw me? 
+Who are you striving to become? 
+What does forgiveness mean to you? 
+How did your family handle conflict when you were growing up? 
+How do you process emotions when you’re upset? 
+If you could travel to any time in history, when would it be and why? 
+Who is one of your marriage role models? 
+When do you feel most vulnerable, and how do you handle those feelings? 
+How do you prefer to give and receive feedback? 
+How do you handle it when you and someone you care about see things differently? 
+How do you like to reconnect after time apart? 
+What three countries do you most want to visit? 
+What family tradition do you most enjoy? 
+What three qualities first attracted you to me? 
+What did you learn from your greatest failure? 
+What does your ideal life look like in five years? 
+What three things would you want if you were stranded on an island? 
+Who would you consider your support system? How are we different? 
+What’s the greatest lesson your mom (or grandma) taught you? 
+How do you envision balancing individual goals with couple goals? 
+If you could wake up tomorrow having gained any one quality or ability, what would it be? 
+Which of our dates was your favorite and why? 
+What does “partnership” mean to you in a relationship? Do you still like it? To me? 
+What was the first album you ever bought? 
+Which superhero do you most identify with? 
+If you had the power to address any cause or social issue, which one would you choose? 
+What’s your favorite sexual memory of us? 
+What’s your biggest strength, and how did you develop it? Do you feel that one person should take the lead in the relationship more in certain areas or that the relationship should be more collaborative? Is that important to you? Why? 
+For what in your life do you feel most grateful? Process the situation for a while? 
+Before making a telephone call, do you ever rehearse what you are going to say? 
+What’s your first instinct when you feel criticized or misunderstood? 
+What’s a fear you have about relationships in general? 
+What’s a small gesture that always makes you feel cared for? 
+How do you like to be comforted when you’re having a hard time? 
+What’s a pattern from your family that you want to change? Why? 
+What activity do you most enjoy? Do you have a close relationship with them? 
+What are your first thoughts in the morning? 
+What do you need to feel supported? 
+What makes you feel most alive and authentic? 
+What does emotional safety look like to you? 
+What is a favorite family memory? 
+What’s a value you learned from your family that you want to keep? 
+How do you like to celebrate special occasions and milestones? 
+What is your happiest memory from our dating days? Why? 
+What character qualities of yours are you most proud of? 
+What do you most want to do that you haven’t done yet? 
+What kind of physical affection feels most natural to you? 
+Who was your childhood best friend? 
+What would make a perfect date? 
+What does “being there” for someone look like to you? 
+How do you prefer to handle disagreements in relationships? 
+What does trust mean to you in a relationship? 
+Did you fall in love with the other person all at once or over time? 
+What’s something you’ve never told the other person about your childhood that shaped who you are today? 
+What are your views on gender roles and their stereotypes? 
+How do you define success for yourself? In what way? 
+When do you feel most connected to yourself? 
+What helps you calm down when you’re angry or frustrated? 
+What helps you feel most supported during stressful times? 
+When you travel, do you like to have a packed itinerary for max efficiency or do you prefer a chill vibe with flexible plans? 
+How are we similar? 
+What role do your family and friends play in your life? 
+Choose one outfit to wear for the rest of your life? 
+What’s the best part of being alive? 
+If you were able to live to the age of 90 and retain either the mind or body of a 30-year-old for the last 60 years of your life, which would you want? 
+What is the best part of our relationship? 
+What do you want the other person to understand when you’re upset? 
+What most moves you? Ever given? 
+What’s the greatest lesson your dad (or granddad) taught you? Why? 
+How do you handle stress, and what helps you feel better? 
+What would constitute a “perfect” day for you? 
+What three strengths do we have as a team? Say something? How do you want your partner to show that they appreciate you? 
+How do you typically respond if something is bothering you? 
+What’s your process for working through hurt feelings? 
+How do you show someone you’re thinking about them? 
+What would you choose if you could eat only three foods for life? 
+Do you have a secret hunch about how you will die? 
+What’s something from your past that you worry might affect future relationships? 
+What was your favorite childhood meal? 
+What kind of home environment makes you feel most peaceful? 
+How do you feel most loved and appreciated? 
+How important is career advancement to you, and how do you balance that with relationships?
+What traditions from your family do you want to keep or change? What are your top three favorite TV shows of all time? 
+How do you picture an ideal relationship when both people are older and retired? 
+What’s something you’re working on improving about yourself? 
+Is there anything you’ve secretly wanted to ask me? 
+What’s your approach to finding work-life balance? 
+What qualities do you value in a romantic relationship? 
+Describe us as a couple in three words? 
+What role does personal development play in your life? 
+What keeps you up at night? 
+Where or when are you most at peace? 
+How do you want a partner to support you when you’re going through something difficult? 
+What’s a dream you’ve had since childhood that you still think about? 
+What’s your all-time favorite song? 
+Describe your childhood in three words? 
+What does a typical weekend look like for you? 
+What do you remember about your first experience with death? 
+What does financial security mean to you? 
+How do you handle it when your values conflict with someone else’s? 
+What is something I don’t already know about you? 
+When did you last sing to yourself? 
+What’s the most challenging part of being an adult? 
+What’s your favorite way to serve others? 
+What helps you feel loved, safe, and protected in a romantic relationship? Why or why not? 
+What’s one thing you wish people understood better about you? Least favorite? Ask for space? 
+How do you want to be remembered by the people who matter most to you? Most hopeful? 
+What has felt most challenging lately? 
+What would make you feel safe enough to be completely honest about difficult topics? 
+What does quality time mean to you in a relationship? 
+What’s something I do that makes you crazy but you secretly kind of love? 
+What aspects of our friendship do you want to make sure is a staple in our relationship? 
+Would you like to be famous? 
+What’s something you’re working on about yourself right now? 
+What’s a belief you used to hold that you’ve since reconsidered? 
+What role do you want family to play in your future? 
+What are some goals you think we should have for our relationship, and why are those important to you? 
+As a child, did you trust your parents? 
+What does spirituality or deeper purpose mean to you? 
+How do you want to grow as a person in the coming years? 
+How do you want someone to approach you when they’re upset about something? 
+What causes or issues do you feel passionate about? 
+What’s the most important lesson life has taught you so far? 
+What are you most grateful for? 
+How do you want to handle disagreements about important decisions? Why does it stand out? 
+What gives you hope about relationships, even when they’re challenging? 
+How do you want a relationship to support your personal growth? 
+What about the other person still makes you smile? 
+What are your non-negotiables when it comes to where you live? 
+Name three things you and your partner appear to have in common? What’s your favorite memory? 
+What’s your favorite way to show love to someone special? 
+What would you do with the money if you won the lottery? 
+In the beginning of any relationship, how often do you like to talk to the person you’re getting to know? 
+Are you more of a texter or a caller? 
+What is something recent that you’re proud of? 
+How do I make you feel most loved? 
+What’s your favorite household chore? 
+What restores your faith in humanity? 
+What’s the best compliment you’ve ever received? To someone else? 
+What’s your biggest relationship fear? 
+What’s an area where you want to continue growing? 
+What does a sincere apology look like to you? 
+How would you describe your perfect day? 
+What songs would be on the soundtrack of your life? 
+How do you show your appreciation in a relationship? 
+How do you repair after an argument? 
+If we had a theme song, what would it be? 
+If you could study any subject, what would it be? 
+What are the top three items on your Bucket List? 
+What’s a mistake you made that taught you something important about yourself? 
+What qualities do you most admire in a person? 
+When did you know you were in love with me? 
+How do you handle it when someone lets you down? 
+How do you want to handle major life decisions as a couple? 
+What was your last daydream of us? 
+What movie reminds you of our love story? 
+What did your parents or grandparents teach you about love? 
+What’s your greatest accomplishment? 
+What’s an adventure you’d love to take with the right person? 
+What could we try to spice up our love life as a couple? 
+Who made you feel most loved, safe, or special as a child? 
+What’s your favorite non-sexual way of being touched? 
+What was your favorite TV show as a child? 
+How (and when) did you first know we’d make it as a couple? 
+What book or movie impacted you as a teen? 
+If you could change anything about the way you were raised, what would it be? 
+How have your priorities changed in the past few years? 
+What’s your favorite memory of each other? What is it, and why? 
+What qualities do you appreciate in a friend?
